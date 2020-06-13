@@ -1,0 +1,92 @@
+.utama {
+	width: 1020px;
+	margin: auto;
+	border: 1px solid black;
+	background-color: #e9ebee;
+
+}
+.kepala {
+	background-color: black;
+}
+
+h2{
+	color: black;
+}
+.menu  {
+	padding: 10px;
+	background-color: maroon;
+	color: #fff;
+	text-decoration: none;
+	top: 0px;
+	position: sticky;
+}
+.menu a {
+	padding: 10px;
+	background-color: maroon;
+	color: midnightblue;
+	text-decoration: none;
+	color: white;
+	text-decoration-color: white;
+}
+.menu a:hover {
+	background-color: black ;
+
+}
+.menu {
+	margin-top: 2px;
+	margin-bottom: 20px;
+}
+.akun{
+	position: absolute;
+	top: 0px;
+	right: 80px;
+
+}
+.logout{
+	position: absolute;
+	top: 0px;
+	right: 10px;
+
+}
+
+
+.isi{
+	margin-left: 10px;
+	margin-bottom: 50px;
+	min-height: 500px;
+
+}
+
+table {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #baca;
+	border-collapse: collapse;
+	width: 1000px;
+}
+table th {
+	text-align: left;
+	width: 300px;
+	border: 1px solid white;
+	padding: 10px;
+	background-color: maroon;
+	color: white;
+	text-decoration-color: white;
+}
+table td {
+	border: 1px solid white;
+	padding:10px;
+}
+.footer {
+	padding: 10px;
+	text-align: right;
+	background-color: maroon;
+	width: 1000px;
+	bottom: 0px;
+	color: white;
+	position: sticky;
+}
+input[type="text"]{
+	width: 620PX;
+	height: 100%;
+}

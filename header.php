@@ -1,0 +1,1 @@
+<img src="layout/assets/images/header2.png" width=100%;>
