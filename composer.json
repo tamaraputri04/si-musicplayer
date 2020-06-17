@@ -1,0 +1,14 @@
+{
+    "name": "asus/oop-praktikum-8",
+    "description": "Latihan Praktikum Pemrograman Berbasis Web Lanjutan 8",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Tamara Putri Momoca",
+            "email": "tamaraputri77@gmail.com"
+        }
+    ]
+}
